@@ -4,7 +4,7 @@ This folder contains documentation of our attempt to contact the authors of [YaT
 
 ### Contents
 
-- **email_transcript.pdf**: A redacted copy of the email sent to the authors.
+- **yatc-email_transcript.pdf**: A redacted copy of the email sent to the authors.
 
 ### Summary
 
